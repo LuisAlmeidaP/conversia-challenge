@@ -36,3 +36,8 @@ Proyecto Desarrollado con [FastApi] (https://fastapi.tiangolo.com/)
 6. Levantar Servidor
     ```
     python .\src\app.py
+
+
+## Swagger Module
+#### Acceder a la visualizacion de las diferentes api de todo el proyecto
+- [Documentacion Swagger](http://localhost:3200/docs#)
