@@ -9,8 +9,8 @@ Proyecto Desarrollado con [FastApi] (https://fastapi.tiangolo.com/)
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/LuisAlmeidaP/conversia-challenge.git
+   cd conversia-challenge/
 
 3. Instalar Dependencias
     #### Crear un Entorno Virtual
@@ -32,3 +32,7 @@ Proyecto Desarrollado con [FastApi] (https://fastapi.tiangolo.com/)
 5. Levantar el Servicio de Docker
     ```
     docker-compose up --build
+
+6. Levantar Servidor
+    ```
+    python .\src\app.py
