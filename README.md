@@ -32,4 +32,3 @@ Proyecto Desarrollado con [FastApi] (https://fastapi.tiangolo.com/)
 5. Levantar el Servicio de Docker
     ```
     docker-compose up --build
-
