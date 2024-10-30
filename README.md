@@ -20,7 +20,7 @@ Proyecto Desarrollado con [FastApi] (https://fastapi.tiangolo.com/)
 
 4. Variables de Entorno
     #### - Crear archivo `.ENV`
-    #### - Asignar los Sigueintes Valores al `.ENV` 
+    #### - Asignar los siguientes valores al archivo `.ENV` 
     
 | Variable             | Descripción                                                                                        |
 |----------------------|----------------------------------------------------------------------------------------------------|
